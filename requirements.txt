@@ -3,4 +3,5 @@ fbprophet==0.3.post1
 fileupload==0.1.5
 ipywidgets
 jupyter_contrib_nbextensions
+plotly==3.4.2
 
