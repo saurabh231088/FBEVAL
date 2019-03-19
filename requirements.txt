@@ -1,4 +1,4 @@
 pandas==0.23.0
-fbprophet==0.3.post
+fbprophet==0.3.post1
 
 
