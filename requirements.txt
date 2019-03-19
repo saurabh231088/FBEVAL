@@ -1,4 +1,5 @@
 pandas==0.23.0
 fbprophet==0.3.post1
+fileupload==0.1.5
 
 
